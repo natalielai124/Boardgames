@@ -1,8 +1,5 @@
 # Boardgames
 
-
-# DVD Rental Analysis Project
-
 ## Project Overview 
 Welcome to the Board Game repository! In this "Board Game Analysis and Visualization" project, we aim to analyze and visualize data related to board games, including their titles, descriptions, ratings attributes. This project provides valuable insights into popular keywords, common themes, and the highest-rated board games.
 
