@@ -40,17 +40,20 @@ Welcome to the Board Game repository! In this "Board Game Analysis and Visualiza
 - Jupyter Notebook or Colab for presenting results and user interaction.
 
 ##  Data Description
-The board game dataset is organized into one tables, 
+The board game dataset is organized into one table, with 6 attributes.
 
 <details>
 <summary> Attributes Description </summary>
 <text> 
 
-- _Game Title_ Table: The title of the board game.
+- _Game Title_ : The title of the board game.
   
-- _Descriptions_ Table: A textual description of the board game, including information about its theme, gameplay, and features. 
+- _Descriptions_ : A textual description of the board game, including information about its theme, gameplay, and features. 
 
-- _Greek Rating_ Table: A numerical rating representing the game's overall quality or user satisfaction. 
+- _Greek Rating_ : A numerical rating representing the game's overall quality or user satisfaction.
+- _Average Rating_:  The average user rating or score assigned to a board game.
+- _Votes_:  The number of votes or user reviews submitted for a board game.
+- _Release Years_: The years in which board games were initially released or made available to the public
 
 
 </text>
@@ -58,10 +61,13 @@ The board game dataset is organized into one tables,
 
 
 ## Insights
-Here, you'll discover 3 fun facts with the board game
+Here, you'll discover 6 fun facts with the board game
 1. Most Common Words in Board Game Descriptions 1
 2. Most Common Words in Board Game Descriptions 2
-3. Most common Word in the game title
+3. Most Common Word in the game title
+4. Trends in the Release of New Board Games Over the Last Five Decades
+5. Game with the greatest variance between 'Greek Rating' and 'Average Rating'
+6. Game with the number of votes  
 
 
 ## Reference 
