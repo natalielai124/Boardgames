@@ -25,7 +25,7 @@ Welcome to the Board Game repository! In this "Board Game Analysis and Visualiza
 </details>
 
 ## Repository Contents 
-- Project.ipynb: The code on how to analyse the dataset with user friendly visuals
+- Boardgames_Project.ipynb: The code on how to analyse the dataset with user friendly visuals
 - README.md: You are currently reading this README file, which provides an overview of the project.
 
 
